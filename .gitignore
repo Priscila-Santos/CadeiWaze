@@ -1,0 +1,24 @@
+# Ambientes virtuais Python
+venv/
+.venv/
+env/
+ENV/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Cache local do OSMnx e Streamlit
+cache/
+.streamlit/secrets.toml
+
+# Arquivos de sistema operacional e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Saídas temporárias de testes
+*.html
