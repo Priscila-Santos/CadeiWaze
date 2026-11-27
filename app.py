@@ -15,7 +15,7 @@ from sklearn.model_selection import cross_val_score
 # CONFIGURAÇÃO DA PÁGINA
 # ==============================================================================
 st.set_page_config(
-    page_title="CadeiWaze | Roteamento Acessível Open Source",
+    page_title="CadeiWaze",
     page_icon="♿",
     layout="wide"
 )

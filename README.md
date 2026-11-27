@@ -1,8 +1,8 @@
 # CadeiWaze — Sistema Inteligente de Rotas Acessíveis
 
-O **CadeiWaze** é um protótipo de aplicativo web gratuito e de código aberto desenvolvido para a disciplina de **Projeto de Algoritmos II** (UFRB). O objetivo do projeto é ajudar pessoas que utilizam cadeira de rodas a encontrar caminhos mais seguros e confortáveis nas cidades, evitando ladeiras muito íngremes, buracos, calçamentos irregulares (como paralelepípedos) e obstáculos temporários.
+O **CadeiWaze** é um protótipo de aplicativo web gratuito e de código aberto desenvolvido para a disciplina de **Projeto de Algoritmos II** do curso de **Bacharelado de Sistemas de Informação** (UFRB). O objetivo do projeto é ajudar pessoas que utilizam cadeira de rodas a encontrar caminhos mais seguros e confortáveis nas cidades, evitando ladeiras muito íngremes, buracos, calçamentos irregulares (como paralelepípedos) e obstáculos temporários.
 
-
+> *link da aplicação:* [https://cadeiwaze.streamlit.app/](https://cadeiwaze.streamlit.app/) 
 
 ## Como o Projeto Funciona
 
